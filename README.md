@@ -30,3 +30,7 @@ Tableau Public dashboard: https://public.tableau.com/views/OlistE-CommerceSalesD
 
 ## Python Analysis
 The complete Python analysis is available in the `Olist_Ecommerce_Analysis_Case_Study.ipynb` notebook in this repository.
+
+## Kaggle Notebook
+View my complete Python analysis on Kaggle:
+[Olist E-Commerce Data Analysis - Kaggle](https://www.kaggle.com/code/emptydaboi/olist-e-commerce-data-analysis)
